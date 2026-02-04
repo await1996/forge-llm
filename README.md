@@ -1,5 +1,6 @@
 # forge-llm
-It is a ground-up implementation of Large Language Models, inspired by the "LLMs-from-scratch" philosophy.
-In a world of high-level frameworks, we go back to the basics. This project is an exercise in understanding — where we forge tensors, craft attention mechanisms, and hammer out gradient updates manually.
-No magic, no black boxes. Just raw code, linear algebra, and the relentless pursuit of how generative AI truly works. Welcome to the forge.
+这是一个从头开始实现的大语言模型项目，灵感源自 "LLMs-from-scratch"。
+
+在高级框架横行的时代，我们回归本源。这个项目是对“理解”的一次练习——在这里，我们锻造张量，构建注意力机制，并手动处理梯度更新。
+
 
